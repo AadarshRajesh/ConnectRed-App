@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "188929971012",
+    "project_id": "connectred",
+    "storage_bucket": "connectred.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188929971012:android:0d04e41857d96c56f23d11",
+        "android_client_info": {
+          "package_name": "com.example.connect_red"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188929971012-rhnu7vcl68u1etlbrrkbuu82614jb2ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXhJSvBxqR01wMXMcpax-8-XrdSme6vZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188929971012-rhnu7vcl68u1etlbrrkbuu82614jb2ee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188929971012-0qq4h3ihqofu6judbb1s7ng5l8elojnk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.connectRed"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

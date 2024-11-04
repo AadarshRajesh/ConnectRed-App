@@ -1,0 +1,42 @@
+name: connect_red
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.1
+  image_picker: ^1.1.1
+  cupertino_icons: ^1.0.6
+  webview_flutter: ^4.7.0
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.1
+  cloud_firestore: ^5.0.2
+  firebase_messaging: ^15.0.2
+  google_sign_in: ^6.2.1
+  firebase_database: ^11.0.2
+  firebase_storage: ^12.1.0
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  firebase_ui_database: ^1.4.3
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/applogo.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/bloodbag.png
